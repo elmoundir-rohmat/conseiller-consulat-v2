@@ -26,7 +26,7 @@ const HomePage: React.FC = () => {
         <div className="container mx-auto px-4 py-16 md:py-24 relative z-10">
           <div className="max-w-2xl">
             <h1 className="text-3xl md:text-5xl font-bold mb-4">
-              Simplifiez vos démarches administratives consulaires
+              PushV1 vos démarches administratives consulaires
             </h1>
             <p className="text-lg md:text-xl mb-8">
               Une plateforme d'information fiable et rapide pour les Marocains Résidant à l'Étranger. 
